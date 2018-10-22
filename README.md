@@ -1,4 +1,5 @@
 # React.js Boilerplate
+[![dependencies Status](https://david-dm.org/rozig/reactjs-boilerplate/status.svg)](https://david-dm.org/rozig/reactjs-boilerplate) [![devDependencies Status](https://david-dm.org/rozig/reactjs-boilerplate/dev-status.svg)](https://david-dm.org/rozig/reactjs-boilerplate?type=dev) [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/rozig/reactjs-boilerplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/rozig/reactjs-boilerplate/context:javascript)
 
 Boilerplate for React.js projects.
 
