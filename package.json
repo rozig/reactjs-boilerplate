@@ -39,6 +39,6 @@
   "scripts": {
     "start": "webpack-dev-server --inline --hot --history-api-fallback --open",
     "build": "webpack --mode production",
-    "test": "jest"
+    "test": "jest -u"
   }
 }
